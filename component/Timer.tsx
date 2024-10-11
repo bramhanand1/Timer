@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
   },
   timerTitle: {
-    fontSize: 18,
+    fontSize: 17,
     fontWeight: 'bold',
   },
   timerText: {
